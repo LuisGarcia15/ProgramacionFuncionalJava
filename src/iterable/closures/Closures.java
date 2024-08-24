@@ -1,6 +1,6 @@
-package closures;
+package iterable.closures;
 
-import InterfacesFuncionales.EjemploUno;
+import iterable.InterfacesFuncionales.EjemploUno;
 
 public class Closures {
     public static void main(String[] args) {

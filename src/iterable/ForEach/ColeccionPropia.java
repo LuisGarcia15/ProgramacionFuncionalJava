@@ -1,4 +1,4 @@
-package ForEach;
+package iterable.ForEach;
 
 import java.util.Iterator;
 

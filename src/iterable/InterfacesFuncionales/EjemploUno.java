@@ -1,4 +1,4 @@
-package InterfacesFuncionales;
+package iterable.InterfacesFuncionales;
 
 @FunctionalInterface
 public interface EjemploUno {

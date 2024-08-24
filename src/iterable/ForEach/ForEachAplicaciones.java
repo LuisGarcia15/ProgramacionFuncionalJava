@@ -1,4 +1,4 @@
-package ForEach;
+package iterable.ForEach;
 
 public class ForEachAplicaciones {
     public static void main(String[] args) {

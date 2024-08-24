@@ -1,6 +1,6 @@
-package HOFCallbacks;
+package iterable.HOFCallbacks;
 
-import InterfacesFuncionales.EjemploUno;
+import iterable.InterfacesFuncionales.EjemploUno;
 
 public class HOFCallbacks {
     public static void main(String[] args) {
