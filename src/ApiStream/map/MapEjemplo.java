@@ -34,10 +34,9 @@ public class MapEjemplo {
         //La operaciíon terminal es toList(), ya que las operaciones intermedias
         //devulven un Stream<T> donde T es el tipo de la fuente. toList() convierte
         //ese flujo a una lista que puede almacenarse en la lista de mutación
-        nombresMutacion = flujo.map(nombre -> {
-            nombre += " [" + nombre.length() + "]";
-            return nombre;
-        }).toList();
+        nombresMutacion = flujo
+                .map(nombre -> nombre + " [" + nombre.length() + "]")
+                .toList();
 
         //Imprimimmos el resultado de la lista mutada
         System.out.println("----- Lista mutada -----");
