@@ -1,4 +1,4 @@
-package ApiStream.skip.modelos;
+package apiStream.skip.modelos;
 
 //Representación de un Auto. Puede estar daniado o no
 public class Auto {

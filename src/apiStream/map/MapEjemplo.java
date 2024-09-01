@@ -1,4 +1,4 @@
-package ApiStream.map;
+package apiStream.map;
 
 import java.util.List;
 import java.util.stream.Stream;

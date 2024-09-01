@@ -1,6 +1,6 @@
-package ApiStream.skip;
+package apiStream.skip;
 
-import ApiStream.skip.modelos.Auto;
+import apiStream.skip.modelos.Auto;
 
 import java.util.List;
 
