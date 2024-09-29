@@ -4,6 +4,10 @@ import java.util.List;
 
 public class Ejemplo {
     public static void main(String[] args) {
+
+        /*Matchers Itera a traves de un predicado numerico.
+        * Es por ello que las implementaciones de matchers se
+        * encuentran en IntStream*/
         List<String> palabras = List.of("hola", "pera", "peca", "bocina");
 
         System.out.println(palabras);
